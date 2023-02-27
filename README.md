@@ -1,2 +1,2 @@
 # Slick-3DS-Pack
-A full pack of all In the slick series.
+A Nice pack of simple and slick themes,badges and more.
